@@ -37,9 +37,14 @@ http://localhost:3000
 
 ## Uso de IA
 
-Se utilizó ChatGPT para:
-- Crear estructura base
-- Implementar CRUD
+Se utilizó ChatGPT como apoyo para:
+- Crear la estructura base del proyecto
+- Implementar el CRUD de transacciones
 - Resolver errores de configuración
+- Guiar el uso de Git y GitHub
 
 El código fue entendido y probado manualmente.
+
+## Video
+
+https://youtu.be/be-rOeFG3c8
